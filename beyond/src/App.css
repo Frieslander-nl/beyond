@@ -4,3 +4,13 @@
   padding: 2rem;
   text-align: center;
 }
+
+.iss-tracker {
+  background: #0e2238;
+  color: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  margin: 2rem auto;
+  max-width: 800px;
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.15);
+}
