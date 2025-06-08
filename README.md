@@ -2,18 +2,25 @@
 
 Beyond is a modern React-based web application that connects you to the wonders of the universe using NASA's public APIs. This app aims to teach, inspire, and visually connect people to real-time space data.
 
-## 🔭 Features
+## 🌟 Features
 
-- 📷 **Picture of the Day** — Displays NASA's Astronomy Picture of the Day (APOD) including the title, media, explanation, and date.
-- 💡 Dynamic media support (images and videos)
-- 🌐 Responsive design and clear UI
+- 📸 **NASA Picture of the Day** – See today's featured astronomy image with a description and metadata.
+- 🛞 **Mars Rover Photo Explorer** – Choose a date and view real images captured by NASA's rovers on Mars.
+- 🧪 More space exploration tools coming soon...
 
 ## 🚀 Upcoming Features
 
-- 📸 **Mars Rover Photo Explorer** (Curiosity, Spirit, Opportunity)
 - 🌍 Earth Polychromatic Imaging Camera (EPIC) gallery
 - 📅 Choose specific dates to view older data
 - 🌓 Themed dark mode for space vibes
+
+## 🗺️ Roadmap
+
+- [x] Display NASA's Astronomy Picture of the Day
+- [x] Add Mars Rover Photo Explorer
+- [ ] Add Solar Flare activity viewer
+- [ ] Add NEOWS (Near Earth Object) tracker
+- [ ] **Embed a 3D model of a planet** (using Three.js or Model Viewer)
 
 ## 🧪 Tech Stack
 
@@ -43,3 +50,7 @@ This project is ideal for:
 _“Beyond the sky is not the limit — it’s just the beginning.”_
 
 ---
+
+## 💫 License
+
+Open-source under the MIT License.
