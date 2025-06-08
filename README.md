@@ -6,7 +6,8 @@ Beyond is a modern React-based web application that connects you to the wonders 
 
 - 📸 **NASA Picture of the Day** – See today's featured astronomy image with a description and metadata.
 - 🛞 **Mars Rover Photo Explorer** – Choose a date and view real images captured by NASA's rovers on Mars.
-- 🧪 More space exploration tools coming soon...
+- 🪨 **Near-Earth Object Explorer** - Search and display asteroids approaching Earth by date — with size, speed, and risk data.
+- 🔭 **More coming soon!** - Future components will include 3D models, planetary data, and space missions.
 
 ## 🚀 Upcoming Features
 
@@ -18,6 +19,7 @@ Beyond is a modern React-based web application that connects you to the wonders 
 
 - [x] Display NASA's Astronomy Picture of the Day
 - [x] Add Mars Rover Photo Explorer
+- [x] Neo Explorer "Near Earth Object Tracker"
 - [ ] Add Solar Flare activity viewer
 - [ ] Add NEOWS (Near Earth Object) tracker
 - [ ] **Embed a 3D model of a planet** (using Three.js or Model Viewer)
@@ -50,6 +52,10 @@ This project is ideal for:
 _“Beyond the sky is not the limit — it’s just the beginning.”_
 
 ---
+
+## 🧑‍🚀 Author
+
+Germen Liezenga / https://github.com/Frieslander-nl
 
 ## 💫 License
 
