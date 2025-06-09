@@ -36,7 +36,6 @@ Live tracking of the International Space Station’s position on a world map.
 - [x] ISS tracker, the tracker of the "International Space Station"
 - [ ] Add Solar Flare activity viewer
 - [ ] Add NEOWS (Near Earth Object) tracker
-- [ ] **Embed a 3D model of a planet** (using Three.js or Model Viewer)
 
 ## 🧪 Tech Stack
 
